@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Dox-Xouva
 #### Python Programmer
-![Python Programmer](https://scontent.fdac33-1.fna.fbcdn.net/v/t39.30808-6/286875594_135720679118570_2699429069068131970_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHgYxz295vXZu17wfXlyeaxtxIbMTkMjR63EhsxOQyNHsLWiRN9OGzyyVJ3QeYATJvjCHobTrG6lGPYn85TkS8e&_nc_ohc=fvv6bfrxE7MAX80ydgU&_nc_oc=AQkZC4GvMp3_ZDPKOR90CHuMOPEs9quCOTLLUVwsnKBB6zu3yPW80zS3v4xTMeMf1S0&_nc_ht=scontent.fdac33-1.fna&oh=00_AT9KCtml61Tvsrz4wiGC-WzoOfpy7d6KAP5NCFugMqEprQ&oe=62B92697)
-
 
 Skills: python
 
